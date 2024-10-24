@@ -1,0 +1,4 @@
+- pipeline: xrsitoliiq
+  refs:
+  - refs/heads/master
+  on: CLICK
